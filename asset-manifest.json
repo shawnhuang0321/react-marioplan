@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.ce9ef3c0.chunk.css",
-  "main.js": "/static/js/main.01b3b963.chunk.js",
-  "main.js.map": "/static/js/main.01b3b963.chunk.js.map",
-  "static/js/1.10591c9b.chunk.js": "/static/js/1.10591c9b.chunk.js",
-  "static/js/1.10591c9b.chunk.js.map": "/static/js/1.10591c9b.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.ce9ef3c0.chunk.css.map": "/static/css/main.ce9ef3c0.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.5c9ba42e5491cc8eaa46b5d82409cf56.js": "/precache-manifest.5c9ba42e5491cc8eaa46b5d82409cf56.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/react-marioplan/static/css/main.55f3e31a.chunk.css",
+  "main.js": "/react-marioplan/static/js/main.e1216805.chunk.js",
+  "main.js.map": "/react-marioplan/static/js/main.e1216805.chunk.js.map",
+  "static/js/1.92ae2bec.chunk.js": "/react-marioplan/static/js/1.92ae2bec.chunk.js",
+  "static/js/1.92ae2bec.chunk.js.map": "/react-marioplan/static/js/1.92ae2bec.chunk.js.map",
+  "runtime~main.js": "/react-marioplan/static/js/runtime~main.74ca7619.js",
+  "runtime~main.js.map": "/react-marioplan/static/js/runtime~main.74ca7619.js.map",
+  "static/css/main.55f3e31a.chunk.css.map": "/react-marioplan/static/css/main.55f3e31a.chunk.css.map",
+  "index.html": "/react-marioplan/index.html",
+  "precache-manifest.1adc0a62ff172b62425cfd4490a1c714.js": "/react-marioplan/precache-manifest.1adc0a62ff172b62425cfd4490a1c714.js",
+  "service-worker.js": "/react-marioplan/service-worker.js"
 }
